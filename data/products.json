@@ -1,0 +1,1437 @@
+[
+  {
+    "id": "colombia-drip-1",
+    "slug": "colombia-drip-1",
+    "name": "Колумбия · Huila / Original",
+    "origin": "Колумбия",
+    "originSlug": "colombia",
+    "type": "Дрип-пакеты",
+    "price": 290,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Huila. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "шоколад",
+      "красное яблоко",
+      "карамель"
+    ],
+    "strength": 2,
+    "featured": true
+  },
+  {
+    "id": "colombia-drip-2",
+    "slug": "colombia-drip-2",
+    "name": "Колумбия · Huila / Reserve",
+    "origin": "Колумбия",
+    "originSlug": "colombia",
+    "type": "Дрип-пакеты",
+    "price": 355,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Huila. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "шоколад",
+      "красное яблоко",
+      "карамель"
+    ],
+    "strength": 3,
+    "featured": false
+  },
+  {
+    "id": "colombia-drip-3",
+    "slug": "colombia-drip-3",
+    "name": "Колумбия · Huila / Estate",
+    "origin": "Колумбия",
+    "originSlug": "colombia",
+    "type": "Дрип-пакеты",
+    "price": 420,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Huila. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "шоколад",
+      "красное яблоко",
+      "карамель"
+    ],
+    "strength": 4,
+    "featured": false
+  },
+  {
+    "id": "colombia-drip-4",
+    "slug": "colombia-drip-4",
+    "name": "Колумбия · Huila / Selection",
+    "origin": "Колумбия",
+    "originSlug": "colombia",
+    "type": "Дрип-пакеты",
+    "price": 485,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Huila. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "шоколад",
+      "красное яблоко",
+      "карамель"
+    ],
+    "strength": 5,
+    "featured": false
+  },
+  {
+    "id": "colombia-drip-5",
+    "slug": "colombia-drip-5",
+    "name": "Колумбия · Huila / Micro Lot",
+    "origin": "Колумбия",
+    "originSlug": "colombia",
+    "type": "Дрип-пакеты",
+    "price": 550,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Huila. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "шоколад",
+      "красное яблоко",
+      "карамель"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "colombia-beans-1",
+    "slug": "colombia-beans-1",
+    "name": "Колумбия · Huila / Original",
+    "origin": "Колумбия",
+    "originSlug": "colombia",
+    "type": "Кофе в зернах",
+    "price": 720,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Huila. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "шоколад",
+      "красное яблоко",
+      "карамель"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "colombia-beans-2",
+    "slug": "colombia-beans-2",
+    "name": "Колумбия · Huila / Reserve",
+    "origin": "Колумбия",
+    "originSlug": "colombia",
+    "type": "Кофе в зернах",
+    "price": 785,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Huila. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "шоколад",
+      "красное яблоко",
+      "карамель"
+    ],
+    "strength": 3,
+    "featured": false
+  },
+  {
+    "id": "colombia-beans-3",
+    "slug": "colombia-beans-3",
+    "name": "Колумбия · Huila / Estate",
+    "origin": "Колумбия",
+    "originSlug": "colombia",
+    "type": "Кофе в зернах",
+    "price": 850,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Huila. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "шоколад",
+      "красное яблоко",
+      "карамель"
+    ],
+    "strength": 4,
+    "featured": false
+  },
+  {
+    "id": "colombia-beans-4",
+    "slug": "colombia-beans-4",
+    "name": "Колумбия · Huila / Selection",
+    "origin": "Колумбия",
+    "originSlug": "colombia",
+    "type": "Кофе в зернах",
+    "price": 915,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Huila. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "шоколад",
+      "красное яблоко",
+      "карамель"
+    ],
+    "strength": 5,
+    "featured": false
+  },
+  {
+    "id": "colombia-beans-5",
+    "slug": "colombia-beans-5",
+    "name": "Колумбия · Huila / Micro Lot",
+    "origin": "Колумбия",
+    "originSlug": "colombia",
+    "type": "Кофе в зернах",
+    "price": 980,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Huila. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "шоколад",
+      "красное яблоко",
+      "карамель"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "colombia-sets-1",
+    "slug": "colombia-sets-1",
+    "name": "Колумбия · Huila / Original",
+    "origin": "Колумбия",
+    "originSlug": "colombia",
+    "type": "Наборы",
+    "price": 1250,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Huila. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "шоколад",
+      "красное яблоко",
+      "карамель"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "colombia-sets-2",
+    "slug": "colombia-sets-2",
+    "name": "Колумбия · Huila / Reserve",
+    "origin": "Колумбия",
+    "originSlug": "colombia",
+    "type": "Наборы",
+    "price": 1315,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Huila. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "шоколад",
+      "красное яблоко",
+      "карамель"
+    ],
+    "strength": 3,
+    "featured": false
+  },
+  {
+    "id": "colombia-sets-3",
+    "slug": "colombia-sets-3",
+    "name": "Колумбия · Huila / Estate",
+    "origin": "Колумбия",
+    "originSlug": "colombia",
+    "type": "Наборы",
+    "price": 1380,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Huila. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "шоколад",
+      "красное яблоко",
+      "карамель"
+    ],
+    "strength": 4,
+    "featured": false
+  },
+  {
+    "id": "colombia-sets-4",
+    "slug": "colombia-sets-4",
+    "name": "Колумбия · Huila / Selection",
+    "origin": "Колумбия",
+    "originSlug": "colombia",
+    "type": "Наборы",
+    "price": 1445,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Huila. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "шоколад",
+      "красное яблоко",
+      "карамель"
+    ],
+    "strength": 5,
+    "featured": false
+  },
+  {
+    "id": "colombia-sets-5",
+    "slug": "colombia-sets-5",
+    "name": "Колумбия · Huila / Micro Lot",
+    "origin": "Колумбия",
+    "originSlug": "colombia",
+    "type": "Наборы",
+    "price": 1510,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Huila. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "шоколад",
+      "красное яблоко",
+      "карамель"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "ethiopia-drip-1",
+    "slug": "ethiopia-drip-1",
+    "name": "Эфиопия · Sidama / Original",
+    "origin": "Эфиопия",
+    "originSlug": "ethiopia",
+    "type": "Дрип-пакеты",
+    "price": 380,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Sidama. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "бергамот",
+      "жасмин",
+      "цитрус"
+    ],
+    "strength": 2,
+    "featured": true
+  },
+  {
+    "id": "ethiopia-drip-2",
+    "slug": "ethiopia-drip-2",
+    "name": "Эфиопия · Sidama / Reserve",
+    "origin": "Эфиопия",
+    "originSlug": "ethiopia",
+    "type": "Дрип-пакеты",
+    "price": 445,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Sidama. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "бергамот",
+      "жасмин",
+      "цитрус"
+    ],
+    "strength": 3,
+    "featured": false
+  },
+  {
+    "id": "ethiopia-drip-3",
+    "slug": "ethiopia-drip-3",
+    "name": "Эфиопия · Sidama / Estate",
+    "origin": "Эфиопия",
+    "originSlug": "ethiopia",
+    "type": "Дрип-пакеты",
+    "price": 510,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Sidama. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "бергамот",
+      "жасмин",
+      "цитрус"
+    ],
+    "strength": 4,
+    "featured": false
+  },
+  {
+    "id": "ethiopia-drip-4",
+    "slug": "ethiopia-drip-4",
+    "name": "Эфиопия · Sidama / Selection",
+    "origin": "Эфиопия",
+    "originSlug": "ethiopia",
+    "type": "Дрип-пакеты",
+    "price": 575,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Sidama. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "бергамот",
+      "жасмин",
+      "цитрус"
+    ],
+    "strength": 5,
+    "featured": false
+  },
+  {
+    "id": "ethiopia-drip-5",
+    "slug": "ethiopia-drip-5",
+    "name": "Эфиопия · Sidama / Micro Lot",
+    "origin": "Эфиопия",
+    "originSlug": "ethiopia",
+    "type": "Дрип-пакеты",
+    "price": 640,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Sidama. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "бергамот",
+      "жасмин",
+      "цитрус"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "ethiopia-beans-1",
+    "slug": "ethiopia-beans-1",
+    "name": "Эфиопия · Sidama / Original",
+    "origin": "Эфиопия",
+    "originSlug": "ethiopia",
+    "type": "Кофе в зернах",
+    "price": 810,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Sidama. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "бергамот",
+      "жасмин",
+      "цитрус"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "ethiopia-beans-2",
+    "slug": "ethiopia-beans-2",
+    "name": "Эфиопия · Sidama / Reserve",
+    "origin": "Эфиопия",
+    "originSlug": "ethiopia",
+    "type": "Кофе в зернах",
+    "price": 875,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Sidama. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "бергамот",
+      "жасмин",
+      "цитрус"
+    ],
+    "strength": 3,
+    "featured": false
+  },
+  {
+    "id": "ethiopia-beans-3",
+    "slug": "ethiopia-beans-3",
+    "name": "Эфиопия · Sidama / Estate",
+    "origin": "Эфиопия",
+    "originSlug": "ethiopia",
+    "type": "Кофе в зернах",
+    "price": 940,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Sidama. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "бергамот",
+      "жасмин",
+      "цитрус"
+    ],
+    "strength": 4,
+    "featured": false
+  },
+  {
+    "id": "ethiopia-beans-4",
+    "slug": "ethiopia-beans-4",
+    "name": "Эфиопия · Sidama / Selection",
+    "origin": "Эфиопия",
+    "originSlug": "ethiopia",
+    "type": "Кофе в зернах",
+    "price": 1005,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Sidama. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "бергамот",
+      "жасмин",
+      "цитрус"
+    ],
+    "strength": 5,
+    "featured": false
+  },
+  {
+    "id": "ethiopia-beans-5",
+    "slug": "ethiopia-beans-5",
+    "name": "Эфиопия · Sidama / Micro Lot",
+    "origin": "Эфиопия",
+    "originSlug": "ethiopia",
+    "type": "Кофе в зернах",
+    "price": 1070,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Sidama. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "бергамот",
+      "жасмин",
+      "цитрус"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "ethiopia-sets-1",
+    "slug": "ethiopia-sets-1",
+    "name": "Эфиопия · Sidama / Original",
+    "origin": "Эфиопия",
+    "originSlug": "ethiopia",
+    "type": "Наборы",
+    "price": 1340,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Sidama. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "бергамот",
+      "жасмин",
+      "цитрус"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "ethiopia-sets-2",
+    "slug": "ethiopia-sets-2",
+    "name": "Эфиопия · Sidama / Reserve",
+    "origin": "Эфиопия",
+    "originSlug": "ethiopia",
+    "type": "Наборы",
+    "price": 1405,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Sidama. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "бергамот",
+      "жасмин",
+      "цитрус"
+    ],
+    "strength": 3,
+    "featured": false
+  },
+  {
+    "id": "ethiopia-sets-3",
+    "slug": "ethiopia-sets-3",
+    "name": "Эфиопия · Sidama / Estate",
+    "origin": "Эфиопия",
+    "originSlug": "ethiopia",
+    "type": "Наборы",
+    "price": 1470,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Sidama. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "бергамот",
+      "жасмин",
+      "цитрус"
+    ],
+    "strength": 4,
+    "featured": false
+  },
+  {
+    "id": "ethiopia-sets-4",
+    "slug": "ethiopia-sets-4",
+    "name": "Эфиопия · Sidama / Selection",
+    "origin": "Эфиопия",
+    "originSlug": "ethiopia",
+    "type": "Наборы",
+    "price": 1535,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Sidama. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "бергамот",
+      "жасмин",
+      "цитрус"
+    ],
+    "strength": 5,
+    "featured": false
+  },
+  {
+    "id": "ethiopia-sets-5",
+    "slug": "ethiopia-sets-5",
+    "name": "Эфиопия · Sidama / Micro Lot",
+    "origin": "Эфиопия",
+    "originSlug": "ethiopia",
+    "type": "Наборы",
+    "price": 1600,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Sidama. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "бергамот",
+      "жасмин",
+      "цитрус"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "nicaragua-drip-1",
+    "slug": "nicaragua-drip-1",
+    "name": "Никарагуа · Jinotega / Original",
+    "origin": "Никарагуа",
+    "originSlug": "nicaragua",
+    "type": "Дрип-пакеты",
+    "price": 470,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Jinotega. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тростниковый сахар",
+      "орех",
+      "слива"
+    ],
+    "strength": 2,
+    "featured": true
+  },
+  {
+    "id": "nicaragua-drip-2",
+    "slug": "nicaragua-drip-2",
+    "name": "Никарагуа · Jinotega / Reserve",
+    "origin": "Никарагуа",
+    "originSlug": "nicaragua",
+    "type": "Дрип-пакеты",
+    "price": 535,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Jinotega. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тростниковый сахар",
+      "орех",
+      "слива"
+    ],
+    "strength": 3,
+    "featured": false
+  },
+  {
+    "id": "nicaragua-drip-3",
+    "slug": "nicaragua-drip-3",
+    "name": "Никарагуа · Jinotega / Estate",
+    "origin": "Никарагуа",
+    "originSlug": "nicaragua",
+    "type": "Дрип-пакеты",
+    "price": 600,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Jinotega. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тростниковый сахар",
+      "орех",
+      "слива"
+    ],
+    "strength": 4,
+    "featured": false
+  },
+  {
+    "id": "nicaragua-drip-4",
+    "slug": "nicaragua-drip-4",
+    "name": "Никарагуа · Jinotega / Selection",
+    "origin": "Никарагуа",
+    "originSlug": "nicaragua",
+    "type": "Дрип-пакеты",
+    "price": 665,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Jinotega. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тростниковый сахар",
+      "орех",
+      "слива"
+    ],
+    "strength": 5,
+    "featured": false
+  },
+  {
+    "id": "nicaragua-drip-5",
+    "slug": "nicaragua-drip-5",
+    "name": "Никарагуа · Jinotega / Micro Lot",
+    "origin": "Никарагуа",
+    "originSlug": "nicaragua",
+    "type": "Дрип-пакеты",
+    "price": 730,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Jinotega. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тростниковый сахар",
+      "орех",
+      "слива"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "nicaragua-beans-1",
+    "slug": "nicaragua-beans-1",
+    "name": "Никарагуа · Jinotega / Original",
+    "origin": "Никарагуа",
+    "originSlug": "nicaragua",
+    "type": "Кофе в зернах",
+    "price": 900,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Jinotega. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тростниковый сахар",
+      "орех",
+      "слива"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "nicaragua-beans-2",
+    "slug": "nicaragua-beans-2",
+    "name": "Никарагуа · Jinotega / Reserve",
+    "origin": "Никарагуа",
+    "originSlug": "nicaragua",
+    "type": "Кофе в зернах",
+    "price": 965,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Jinotega. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тростниковый сахар",
+      "орех",
+      "слива"
+    ],
+    "strength": 3,
+    "featured": false
+  },
+  {
+    "id": "nicaragua-beans-3",
+    "slug": "nicaragua-beans-3",
+    "name": "Никарагуа · Jinotega / Estate",
+    "origin": "Никарагуа",
+    "originSlug": "nicaragua",
+    "type": "Кофе в зернах",
+    "price": 1030,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Jinotega. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тростниковый сахар",
+      "орех",
+      "слива"
+    ],
+    "strength": 4,
+    "featured": false
+  },
+  {
+    "id": "nicaragua-beans-4",
+    "slug": "nicaragua-beans-4",
+    "name": "Никарагуа · Jinotega / Selection",
+    "origin": "Никарагуа",
+    "originSlug": "nicaragua",
+    "type": "Кофе в зернах",
+    "price": 1095,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Jinotega. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тростниковый сахар",
+      "орех",
+      "слива"
+    ],
+    "strength": 5,
+    "featured": false
+  },
+  {
+    "id": "nicaragua-beans-5",
+    "slug": "nicaragua-beans-5",
+    "name": "Никарагуа · Jinotega / Micro Lot",
+    "origin": "Никарагуа",
+    "originSlug": "nicaragua",
+    "type": "Кофе в зернах",
+    "price": 1160,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Jinotega. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тростниковый сахар",
+      "орех",
+      "слива"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "nicaragua-sets-1",
+    "slug": "nicaragua-sets-1",
+    "name": "Никарагуа · Jinotega / Original",
+    "origin": "Никарагуа",
+    "originSlug": "nicaragua",
+    "type": "Наборы",
+    "price": 1430,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Jinotega. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тростниковый сахар",
+      "орех",
+      "слива"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "nicaragua-sets-2",
+    "slug": "nicaragua-sets-2",
+    "name": "Никарагуа · Jinotega / Reserve",
+    "origin": "Никарагуа",
+    "originSlug": "nicaragua",
+    "type": "Наборы",
+    "price": 1495,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Jinotega. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тростниковый сахар",
+      "орех",
+      "слива"
+    ],
+    "strength": 3,
+    "featured": false
+  },
+  {
+    "id": "nicaragua-sets-3",
+    "slug": "nicaragua-sets-3",
+    "name": "Никарагуа · Jinotega / Estate",
+    "origin": "Никарагуа",
+    "originSlug": "nicaragua",
+    "type": "Наборы",
+    "price": 1560,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Jinotega. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тростниковый сахар",
+      "орех",
+      "слива"
+    ],
+    "strength": 4,
+    "featured": false
+  },
+  {
+    "id": "nicaragua-sets-4",
+    "slug": "nicaragua-sets-4",
+    "name": "Никарагуа · Jinotega / Selection",
+    "origin": "Никарагуа",
+    "originSlug": "nicaragua",
+    "type": "Наборы",
+    "price": 1625,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Jinotega. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тростниковый сахар",
+      "орех",
+      "слива"
+    ],
+    "strength": 5,
+    "featured": false
+  },
+  {
+    "id": "nicaragua-sets-5",
+    "slug": "nicaragua-sets-5",
+    "name": "Никарагуа · Jinotega / Micro Lot",
+    "origin": "Никарагуа",
+    "originSlug": "nicaragua",
+    "type": "Наборы",
+    "price": 1690,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Jinotega. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тростниковый сахар",
+      "орех",
+      "слива"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "honduras-drip-1",
+    "slug": "honduras-drip-1",
+    "name": "Гондурас · Marcala / Original",
+    "origin": "Гондурас",
+    "originSlug": "honduras",
+    "type": "Дрип-пакеты",
+    "price": 560,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Marcala. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "какао",
+      "сухофрукты",
+      "мёд"
+    ],
+    "strength": 2,
+    "featured": true
+  },
+  {
+    "id": "honduras-drip-2",
+    "slug": "honduras-drip-2",
+    "name": "Гондурас · Marcala / Reserve",
+    "origin": "Гондурас",
+    "originSlug": "honduras",
+    "type": "Дрип-пакеты",
+    "price": 625,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Marcala. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "какао",
+      "сухофрукты",
+      "мёд"
+    ],
+    "strength": 3,
+    "featured": false
+  },
+  {
+    "id": "honduras-drip-3",
+    "slug": "honduras-drip-3",
+    "name": "Гондурас · Marcala / Estate",
+    "origin": "Гондурас",
+    "originSlug": "honduras",
+    "type": "Дрип-пакеты",
+    "price": 690,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Marcala. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "какао",
+      "сухофрукты",
+      "мёд"
+    ],
+    "strength": 4,
+    "featured": false
+  },
+  {
+    "id": "honduras-drip-4",
+    "slug": "honduras-drip-4",
+    "name": "Гондурас · Marcala / Selection",
+    "origin": "Гондурас",
+    "originSlug": "honduras",
+    "type": "Дрип-пакеты",
+    "price": 755,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Marcala. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "какао",
+      "сухофрукты",
+      "мёд"
+    ],
+    "strength": 5,
+    "featured": false
+  },
+  {
+    "id": "honduras-drip-5",
+    "slug": "honduras-drip-5",
+    "name": "Гондурас · Marcala / Micro Lot",
+    "origin": "Гондурас",
+    "originSlug": "honduras",
+    "type": "Дрип-пакеты",
+    "price": 820,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Marcala. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "какао",
+      "сухофрукты",
+      "мёд"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "honduras-beans-1",
+    "slug": "honduras-beans-1",
+    "name": "Гондурас · Marcala / Original",
+    "origin": "Гондурас",
+    "originSlug": "honduras",
+    "type": "Кофе в зернах",
+    "price": 990,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Marcala. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "какао",
+      "сухофрукты",
+      "мёд"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "honduras-beans-2",
+    "slug": "honduras-beans-2",
+    "name": "Гондурас · Marcala / Reserve",
+    "origin": "Гондурас",
+    "originSlug": "honduras",
+    "type": "Кофе в зернах",
+    "price": 1055,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Marcala. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "какао",
+      "сухофрукты",
+      "мёд"
+    ],
+    "strength": 3,
+    "featured": false
+  },
+  {
+    "id": "honduras-beans-3",
+    "slug": "honduras-beans-3",
+    "name": "Гондурас · Marcala / Estate",
+    "origin": "Гондурас",
+    "originSlug": "honduras",
+    "type": "Кофе в зернах",
+    "price": 1120,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Marcala. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "какао",
+      "сухофрукты",
+      "мёд"
+    ],
+    "strength": 4,
+    "featured": false
+  },
+  {
+    "id": "honduras-beans-4",
+    "slug": "honduras-beans-4",
+    "name": "Гондурас · Marcala / Selection",
+    "origin": "Гондурас",
+    "originSlug": "honduras",
+    "type": "Кофе в зернах",
+    "price": 1185,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Marcala. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "какао",
+      "сухофрукты",
+      "мёд"
+    ],
+    "strength": 5,
+    "featured": false
+  },
+  {
+    "id": "honduras-beans-5",
+    "slug": "honduras-beans-5",
+    "name": "Гондурас · Marcala / Micro Lot",
+    "origin": "Гондурас",
+    "originSlug": "honduras",
+    "type": "Кофе в зернах",
+    "price": 1250,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Marcala. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "какао",
+      "сухофрукты",
+      "мёд"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "honduras-sets-1",
+    "slug": "honduras-sets-1",
+    "name": "Гондурас · Marcala / Original",
+    "origin": "Гондурас",
+    "originSlug": "honduras",
+    "type": "Наборы",
+    "price": 1520,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Marcala. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "какао",
+      "сухофрукты",
+      "мёд"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "honduras-sets-2",
+    "slug": "honduras-sets-2",
+    "name": "Гондурас · Marcala / Reserve",
+    "origin": "Гондурас",
+    "originSlug": "honduras",
+    "type": "Наборы",
+    "price": 1585,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Marcala. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "какао",
+      "сухофрукты",
+      "мёд"
+    ],
+    "strength": 3,
+    "featured": false
+  },
+  {
+    "id": "honduras-sets-3",
+    "slug": "honduras-sets-3",
+    "name": "Гондурас · Marcala / Estate",
+    "origin": "Гондурас",
+    "originSlug": "honduras",
+    "type": "Наборы",
+    "price": 1650,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Marcala. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "какао",
+      "сухофрукты",
+      "мёд"
+    ],
+    "strength": 4,
+    "featured": false
+  },
+  {
+    "id": "honduras-sets-4",
+    "slug": "honduras-sets-4",
+    "name": "Гондурас · Marcala / Selection",
+    "origin": "Гондурас",
+    "originSlug": "honduras",
+    "type": "Наборы",
+    "price": 1715,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Marcala. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "какао",
+      "сухофрукты",
+      "мёд"
+    ],
+    "strength": 5,
+    "featured": false
+  },
+  {
+    "id": "honduras-sets-5",
+    "slug": "honduras-sets-5",
+    "name": "Гондурас · Marcala / Micro Lot",
+    "origin": "Гондурас",
+    "originSlug": "honduras",
+    "type": "Наборы",
+    "price": 1780,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Marcala. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "какао",
+      "сухофрукты",
+      "мёд"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "india-drip-1",
+    "slug": "india-drip-1",
+    "name": "Индия · Monsooned Malabar / Original",
+    "origin": "Индия",
+    "originSlug": "india",
+    "type": "Дрип-пакеты",
+    "price": 650,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Monsooned Malabar. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тёмный шоколад",
+      "специи",
+      "кедр"
+    ],
+    "strength": 2,
+    "featured": true
+  },
+  {
+    "id": "india-drip-2",
+    "slug": "india-drip-2",
+    "name": "Индия · Monsooned Malabar / Reserve",
+    "origin": "Индия",
+    "originSlug": "india",
+    "type": "Дрип-пакеты",
+    "price": 715,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Monsooned Malabar. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тёмный шоколад",
+      "специи",
+      "кедр"
+    ],
+    "strength": 3,
+    "featured": false
+  },
+  {
+    "id": "india-drip-3",
+    "slug": "india-drip-3",
+    "name": "Индия · Monsooned Malabar / Estate",
+    "origin": "Индия",
+    "originSlug": "india",
+    "type": "Дрип-пакеты",
+    "price": 780,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Monsooned Malabar. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тёмный шоколад",
+      "специи",
+      "кедр"
+    ],
+    "strength": 4,
+    "featured": false
+  },
+  {
+    "id": "india-drip-4",
+    "slug": "india-drip-4",
+    "name": "Индия · Monsooned Malabar / Selection",
+    "origin": "Индия",
+    "originSlug": "india",
+    "type": "Дрип-пакеты",
+    "price": 845,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Monsooned Malabar. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тёмный шоколад",
+      "специи",
+      "кедр"
+    ],
+    "strength": 5,
+    "featured": false
+  },
+  {
+    "id": "india-drip-5",
+    "slug": "india-drip-5",
+    "name": "Индия · Monsooned Malabar / Micro Lot",
+    "origin": "Индия",
+    "originSlug": "india",
+    "type": "Дрип-пакеты",
+    "price": 910,
+    "amount": 10,
+    "description": "Спешелти кофе из региона Monsooned Malabar. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тёмный шоколад",
+      "специи",
+      "кедр"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "india-beans-1",
+    "slug": "india-beans-1",
+    "name": "Индия · Monsooned Malabar / Original",
+    "origin": "Индия",
+    "originSlug": "india",
+    "type": "Кофе в зернах",
+    "price": 1080,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Monsooned Malabar. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тёмный шоколад",
+      "специи",
+      "кедр"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "india-beans-2",
+    "slug": "india-beans-2",
+    "name": "Индия · Monsooned Malabar / Reserve",
+    "origin": "Индия",
+    "originSlug": "india",
+    "type": "Кофе в зернах",
+    "price": 1145,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Monsooned Malabar. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тёмный шоколад",
+      "специи",
+      "кедр"
+    ],
+    "strength": 3,
+    "featured": false
+  },
+  {
+    "id": "india-beans-3",
+    "slug": "india-beans-3",
+    "name": "Индия · Monsooned Malabar / Estate",
+    "origin": "Индия",
+    "originSlug": "india",
+    "type": "Кофе в зернах",
+    "price": 1210,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Monsooned Malabar. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тёмный шоколад",
+      "специи",
+      "кедр"
+    ],
+    "strength": 4,
+    "featured": false
+  },
+  {
+    "id": "india-beans-4",
+    "slug": "india-beans-4",
+    "name": "Индия · Monsooned Malabar / Selection",
+    "origin": "Индия",
+    "originSlug": "india",
+    "type": "Кофе в зернах",
+    "price": 1275,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Monsooned Malabar. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тёмный шоколад",
+      "специи",
+      "кедр"
+    ],
+    "strength": 5,
+    "featured": false
+  },
+  {
+    "id": "india-beans-5",
+    "slug": "india-beans-5",
+    "name": "Индия · Monsooned Malabar / Micro Lot",
+    "origin": "Индия",
+    "originSlug": "india",
+    "type": "Кофе в зернах",
+    "price": 1340,
+    "amount": 250,
+    "description": "Спешелти кофе из региона Monsooned Malabar. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тёмный шоколад",
+      "специи",
+      "кедр"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "india-sets-1",
+    "slug": "india-sets-1",
+    "name": "Индия · Monsooned Malabar / Original",
+    "origin": "Индия",
+    "originSlug": "india",
+    "type": "Наборы",
+    "price": 1610,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Monsooned Malabar. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тёмный шоколад",
+      "специи",
+      "кедр"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "india-sets-2",
+    "slug": "india-sets-2",
+    "name": "Индия · Monsooned Malabar / Reserve",
+    "origin": "Индия",
+    "originSlug": "india",
+    "type": "Наборы",
+    "price": 1675,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Monsooned Malabar. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тёмный шоколад",
+      "специи",
+      "кедр"
+    ],
+    "strength": 3,
+    "featured": false
+  },
+  {
+    "id": "india-sets-3",
+    "slug": "india-sets-3",
+    "name": "Индия · Monsooned Malabar / Estate",
+    "origin": "Индия",
+    "originSlug": "india",
+    "type": "Наборы",
+    "price": 1740,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Monsooned Malabar. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тёмный шоколад",
+      "специи",
+      "кедр"
+    ],
+    "strength": 4,
+    "featured": false
+  },
+  {
+    "id": "india-sets-4",
+    "slug": "india-sets-4",
+    "name": "Индия · Monsooned Malabar / Selection",
+    "origin": "Индия",
+    "originSlug": "india",
+    "type": "Наборы",
+    "price": 1805,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Monsooned Malabar. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тёмный шоколад",
+      "специи",
+      "кедр"
+    ],
+    "strength": 5,
+    "featured": false
+  },
+  {
+    "id": "india-sets-5",
+    "slug": "india-sets-5",
+    "name": "Индия · Monsooned Malabar / Micro Lot",
+    "origin": "Индия",
+    "originSlug": "india",
+    "type": "Наборы",
+    "price": 1870,
+    "amount": 5,
+    "description": "Спешелти кофе из региона Monsooned Malabar. Чистый, выразительный профиль для гостиниц, ресторанов и повседневного ритуала.",
+    "notes": [
+      "тёмный шоколад",
+      "специи",
+      "кедр"
+    ],
+    "strength": 2,
+    "featured": false
+  },
+  {
+    "id": "accessory-1",
+    "slug": "accessory-1",
+    "name": "Чайник с узким носиком",
+    "origin": "Оборудование",
+    "originSlug": "equipment",
+    "type": "Аксессуары",
+    "price": 3490,
+    "amount": 1,
+    "description": "Предмет для аккуратной подачи и приготовления кофе в HoReCa.",
+    "notes": [
+      "дизайн",
+      "удобство",
+      "ритуал"
+    ],
+    "strength": 0
+  },
+  {
+    "id": "accessory-2",
+    "slug": "accessory-2",
+    "name": "Керамическая чашка",
+    "origin": "Оборудование",
+    "originSlug": "equipment",
+    "type": "Аксессуары",
+    "price": 990,
+    "amount": 1,
+    "description": "Предмет для аккуратной подачи и приготовления кофе в HoReCa.",
+    "notes": [
+      "дизайн",
+      "удобство",
+      "ритуал"
+    ],
+    "strength": 0
+  },
+  {
+    "id": "accessory-3",
+    "slug": "accessory-3",
+    "name": "Стеклянный сервер",
+    "origin": "Оборудование",
+    "originSlug": "equipment",
+    "type": "Аксессуары",
+    "price": 2190,
+    "amount": 1,
+    "description": "Предмет для аккуратной подачи и приготовления кофе в HoReCa.",
+    "notes": [
+      "дизайн",
+      "удобство",
+      "ритуал"
+    ],
+    "strength": 0
+  },
+  {
+    "id": "accessory-4",
+    "slug": "accessory-4",
+    "name": "Весы для кофе",
+    "origin": "Оборудование",
+    "originSlug": "equipment",
+    "type": "Аксессуары",
+    "price": 2690,
+    "amount": 1,
+    "description": "Предмет для аккуратной подачи и приготовления кофе в HoReCa.",
+    "notes": [
+      "дизайн",
+      "удобство",
+      "ритуал"
+    ],
+    "strength": 0
+  },
+  {
+    "id": "accessory-5",
+    "slug": "accessory-5",
+    "name": "Набор для дегустации",
+    "origin": "Оборудование",
+    "originSlug": "equipment",
+    "type": "Аксессуары",
+    "price": 1890,
+    "amount": 1,
+    "description": "Предмет для аккуратной подачи и приготовления кофе в HoReCa.",
+    "notes": [
+      "дизайн",
+      "удобство",
+      "ритуал"
+    ],
+    "strength": 0
+  }
+]

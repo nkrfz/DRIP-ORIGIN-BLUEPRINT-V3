@@ -1,0 +1,1 @@
+import Link from 'next/link';export default function NotFound(){return <main className="plain-page not-found"><div className="section-eyebrow">ОШИБКА 404</div><h1>Не нашли<br/>этот путь<span className="accent">.</span></h1><p>Зато у нас точно есть кофе.</p><Link className="main-cta" href="/">На главную ↗</Link></main>;}

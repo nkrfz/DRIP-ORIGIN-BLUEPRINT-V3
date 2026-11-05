@@ -1,0 +1,2 @@
+import type {MetadataRoute} from 'next';import {origins,products,journal} from '@/lib/data';
+export default function sitemap():MetadataRoute.Sitemap{const base='https://example.com';const paths=['','/catalog','/cart','/checkout','/about','/b2b','/origins','/journal','/delivery','/payment','/contacts','/faq','/privacy'];return [...paths.map(path=>({url:base+path,changeFrequency:'weekly' as const})),...products.map(p=>({url:base+'/product/'+p.slug})),...origins.map(o=>({url:base+'/origins/'+o.slug})),...journal.map(a=>({url:base+'/journal/'+a.slug}))];}

@@ -1,0 +1,2 @@
+import Editorial,{EditorialRows} from '@/components/Editorial';export const metadata={title:'Доставка'};
+export default function Page(){return <Editorial kicker="ИНФОРМАЦИЯ / 01" title="Доставка" lead="Демонстрационная страница условий доставки. Финальные сроки, стоимость и география будут определены при запуске магазина." shape={1}><EditorialRows rows={[{index:'01',title:'Для частных заказов',body:'Условия доставки уточняются после подключения реальной логистики.'},{index:'02',title:'Для бизнеса',body:'Поставка для HoReCa согласовывается индивидуально.'}]}/></Editorial>;}
